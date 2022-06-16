@@ -1,0 +1,26 @@
+[
+  {
+    "package": "abbyyR",
+    "oncran": true
+  },
+  {
+    "package": "captr",
+    "oncran": true
+  },
+  {
+    "package": "clarifai",
+    "oncran": true
+  },
+  {
+    "package": "guess",
+    "oncran": true
+  },
+  {
+    "package": "tuber",
+    "oncran": true
+  },
+  {
+    "package": "tubern",
+    "oncran": true
+  }
+]
