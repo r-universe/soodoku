@@ -1,14 +1,10 @@
 [
   {
-    "package": "guess",
-    "oncran": true
-  },
-  {
     "package": "abbyyR",
     "oncran": true
   },
   {
-    "package": "tubern",
+    "package": "captr",
     "oncran": true
   },
   {
@@ -16,11 +12,15 @@
     "oncran": true
   },
   {
+    "package": "guess",
+    "oncran": true
+  },
+  {
     "package": "tuber",
     "oncran": true
   },
   {
-    "package": "captr",
+    "package": "tubern",
     "oncran": true
   }
 ]
