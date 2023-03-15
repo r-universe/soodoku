@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "guess"]
+	path = guess
+	url = https://github.com/soodoku/guess
+	shallow = true
+	registered = true
 [submodule "abbyyR"]
 	path = abbyyR
 	url = https://github.com/soodoku/abbyyr
 	shallow = true
 	registered = true
-[submodule "captr"]
-	path = captr
-	url = https://github.com/soodoku/captr
+[submodule "tubern"]
+	path = tubern
+	url = https://github.com/soodoku/tubern
 	shallow = true
 	registered = true
 [submodule "clarifai"]
@@ -18,18 +23,13 @@
 	url = https://github.com/soodoku/clarifai
 	shallow = true
 	registered = true
-[submodule "guess"]
-	path = guess
-	url = https://github.com/soodoku/guess
-	shallow = true
-	registered = true
 [submodule "tuber"]
 	path = tuber
 	url = https://github.com/soodoku/tuber
 	shallow = true
 	registered = true
-[submodule "tubern"]
-	path = tubern
-	url = https://github.com/soodoku/tubern
+[submodule "captr"]
+	path = captr
+	url = https://github.com/soodoku/captr
 	shallow = true
 	registered = true
