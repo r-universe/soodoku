@@ -8,6 +8,11 @@
 	url = https://github.com/soodoku/abbyyr
 	shallow = true
 	registered = true
+[submodule "aws.alexa"]
+	path = aws.alexa
+	url = https://github.com/cran/aws.alexa
+	shallow = true
+	registered = true
 [submodule "captr"]
 	path = captr
 	url = https://github.com/soodoku/captr
@@ -21,6 +26,11 @@
 [submodule "guess"]
 	path = guess
 	url = https://github.com/soodoku/guess
+	shallow = true
+	registered = true
+[submodule "rdomains"]
+	path = rdomains
+	url = https://github.com/cran/rdomains
 	shallow = true
 	registered = true
 [submodule "tuber"]
