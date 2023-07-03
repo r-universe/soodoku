@@ -5,9 +5,6 @@
 [submodule "aws.alexa"]
 	path = aws.alexa
 	url = https://github.com/cran/aws.alexa
-[submodule "captr"]
-	path = captr
-	url = https://github.com/soodoku/captr
 [submodule "guess"]
 	path = guess
 	url = https://github.com/soodoku/guess
