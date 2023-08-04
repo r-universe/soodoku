@@ -11,6 +11,3 @@
 [submodule "rdomains"]
 	path = rdomains
 	url = https://github.com/cran/rdomains
-[submodule "tuber"]
-	path = tuber
-	url = https://github.com/soodoku/tuber
