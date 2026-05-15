@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aws.alexa"]
-	path = aws.alexa
-	url = https://github.com/cran/aws.alexa
 [submodule "rdomains"]
 	path = rdomains
 	url = https://github.com/cran/rdomains
